@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://angelcoronait.github.io/FM-SocialLinkProfile/)
+- Live Site URL: [Add live site URL here](https://angelcoronait.github.io/FM-RecipePage/)
 
 ## My process
 
